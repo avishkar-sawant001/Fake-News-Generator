@@ -6,7 +6,7 @@ import random
 #subject
 
 subjects = ["Nana Pateker",
-           "Rotit Sharma",
+           "Rohit Sharma",
            "Narendra Modi",
            "Akshay kumar",
            "Dogesh Bhai",
@@ -19,7 +19,7 @@ actions = ["with Dance",
            "fighting with karan",
            "eating vadapav",
            "running on street",
-           "orderd parsaled samosa",
+           "ordered parsaled samosa",
            "painting burj khalipha",
            "avoiding media",
            "creating body",
@@ -27,7 +27,7 @@ actions = ["with Dance",
           "traveling",
           "eating mangoes"]
 #Places or things
-place_things = ["at mumbai beech",
+place_things = ["at mumbai beach",
            "on terace",
            "at balcony",
            "inside Home",
