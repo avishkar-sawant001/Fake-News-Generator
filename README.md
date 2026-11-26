@@ -68,6 +68,7 @@ BREAKING NEWS : Babu Rao fighting with karan on terrace
 ## 🎯 Project Purpose
 
 This project was created to practice Python programming fundamentals and improve problem-solving skills through a simple interactive program.
+This project is for practice purpose only anyone can be clone the repo and start to practice like changing lists and adding more features.
 
 ## ⚠️ Disclaimer
 
